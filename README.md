@@ -3,6 +3,7 @@
   <img src="./loai logo.png" alt="Header Image" width="10%">
 </p>
 <h1 align="center"> Hi, I'm Loai Wael </h1>
+<p align="center">Student at CIS MU</p>
 <p align="center">Front-End Dev, UI UX, 3D modelign / Product design</p>
 </div>
 
