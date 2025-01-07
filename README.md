@@ -9,7 +9,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=LoaiWael&icon=7&color=12)](https://visitcount.itsvg.in)
 # ABOUT ME:
-I'm a newbie frontend developer. I am still learning at this career but before that I have learned 3D modeling and made some cool brands and learned how to design a web page or an application, UI UX. And now I need to learn how to implement the design.<br>I'm trying to build my name.<br>I'm trying to collaborate with powerful people.<br>
+I'm a newbie frontend developer. I am still learning at this career but before that I have learned 3D modeling and made some cool brands and learned how to design a web page or an application, UI UX. And now I need to learn how to implement the design.<br>I'm trying to collaborate with powerful people.<br>
 
 
 ## SOCIAL:
