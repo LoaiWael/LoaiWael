@@ -4,8 +4,6 @@
 </p>
 <h1 align="center"> Hi, I'm Loai Wael </h1>
 <p align="center">Student at CIS MU</p>
-<p align="center">Front-End Dev, UI UX, 3D modelign / Product design</p>
-</div>
 
 [![](https://visitcount.itsvg.in/api?id=LoaiWael&icon=7&color=12)](https://visitcount.itsvg.in)
 # ABOUT ME:
