@@ -1,6 +1,6 @@
 <div>
 <p align="center">
-  <img src="./loai logo.png" alt="Header Image" width="10%">
+  <img src="./logo.png" alt="Header Image" width="10%">
 </p>
 <h1 align="center"> Hi, I'm Loai Wael </h1>
 <p align="center">Student at CIS MU</p>
