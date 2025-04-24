@@ -7,7 +7,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=LoaiWael&icon=7&color=12)](https://visitcount.itsvg.in)
 # ABOUT ME:
-I'm learning to save the world.<br/> Just kidding, I'm learning to drive any business to improve its core points, or to bring a new idea to our digital Life<br/> I'm learning to solve real-world problems as a software engineer<br/><br/>
+I'm learning to save the world.<br/> Just kidding, I'm learning to drive any business to be better at its core points, or to bring a new idea to our digital Life<br/> I'm learning to solve real-world problems as a software engineer<br/><br/>
 1- Get an idea<br/>
 2- Planning & Prototyping<br/>
 3- Vibe coding<br/>
