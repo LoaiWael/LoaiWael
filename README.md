@@ -15,10 +15,6 @@ I'm learning to save the world.<br/> Just kidding, I'm learning to drive any bus
 ![](https://github-readme-stats.vercel.app/api?username=LoaiWael&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=LoaiWael&theme=shadow_green&hide_border=false) <br/>
 
-## SOCIAL:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/crzyby) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/invite/Fqa67cq7mc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mirror.edge40) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/loai_3dz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/loai-wael-374a93299)
-
-
 ## TECH STACK:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=LoaiWael&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
